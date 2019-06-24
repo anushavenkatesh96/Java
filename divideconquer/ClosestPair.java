@@ -22,10 +22,8 @@ public final class ClosestPair {
     /**
      * Minimum point coordinate.
      */
-    Location point1 = null;
-    /**
-     * Minimum point coordinate.
-     */
+    Location point1 = null;   
+   
     Location point2 = null;
     /**
      * Minimum point length.
